@@ -2,7 +2,7 @@
 
 A to-do list that feels good to use: ticks draw themselves, finished tasks get a burst of confetti, rows slide into place when you reorder or filter, and a progress ring fills as the day goes on.
 
-**Live:** https://jeevan2410.github.io/TO-DO-LIST/
+**Live:** https://3t3rn4tu5.github.io/TO-DO-LIST/
 
 ![To-do list in the dark theme with five tasks, two done](docs/screenshot.jpg)
 
